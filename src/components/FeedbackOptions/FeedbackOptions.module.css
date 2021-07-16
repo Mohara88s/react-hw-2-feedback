@@ -1,0 +1,13 @@
+.buttonList {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  justify-content: space-around;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.button {
+  padding: 10px;
+  min-width: 100px;
+}
